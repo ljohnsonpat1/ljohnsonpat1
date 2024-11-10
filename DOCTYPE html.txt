@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I Love Coffee</title>
+</head>
+<body>
+
+    <!-- Basic image -->
+    <img src="images/coffee.jpg" alt="A beautiful scenery" width="500" height="300">
+
+      
+</body>
+</html>
+This provides you with a flexible way to insert images into your web pages. Make sure to properly set alt text for accessibility and use responsive design techniques to ensure images look good on all devices.
+
+
+
+
+
+
